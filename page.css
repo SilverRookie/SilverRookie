@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(194, 17, 238);
+}
+.heading{
+ text-align: center;
+ font-family: 'Sofia';
+  font-style: normal;
+  font-size: 32px;
+  padding-top: 40px;
+  text-shadow: 2px 2px #000000;
+}
+.line2{
+    text-align: center;
+    font-family: 'Trirong';
+    font-style:normal;
+    font-size: 36px;
+    margin-top: 200px;
+
+}
+.line3{
+    text-align: center;
+    font-family: 'AUdioWide';
+    font-size: 42px;
+    margin-top: 200px;
+}
